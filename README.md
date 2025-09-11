@@ -4,7 +4,7 @@ Backend engineer focused on high‑performance services, containerization, and r
 
 ## 💬 Worked technologies for me
 
-<img align="right" src="https://github-profile.misec.top/api?username=svcops&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=svcops&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 <table width="100%">
     <tr>
@@ -31,12 +31,12 @@ Backend engineer focused on high‑performance services, containerization, and r
     </tr>
     <tr>
         <td>
-            <img alt="MySQL"
-                 src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
             <img alt="PostgreSQL"
                  src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square"/>
             <img alt="Redis"
                  src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
+            <img alt="MySQL"
+                 src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
         </td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ Backend engineer focused on high‑performance services, containerization, and r
     </tr>
 </table>
 
-<img align="right" src="https://github-profile.misec.top/api/top-langs/?username=svcops&layout=compact&&hide=java,html,javascript,css"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svcops&layout=donut&hide=java,html,javascript,css"/>
 
 ## 🎈 Magic Number
 

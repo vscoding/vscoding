@@ -48,7 +48,7 @@ Backend engineer focused on high‑performance services, containerization, and r
 
 <img align="right" src="https://github-profile.misec.top/api/top-langs/?username=svcops&layout=compact&&hide=java,html,javascript,css"/>
 
-## 👀 Magic Number
+## 🎈 Magic Number
 
 ![Visited By](https://counter.nginx.co/get/at/svcops?theme=booru-lewd)
 

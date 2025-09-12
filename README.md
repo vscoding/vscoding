@@ -4,7 +4,7 @@ Backend engineer focused on high‑performance services, containerization, and r
 
 ## 💬 Worked technologies for me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=svcops&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&&hide_rank=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svcops&layout=donut&hide=java,html,javascript,css"/>
 
 <table width="100%">
     <tr>
@@ -46,9 +46,9 @@ Backend engineer focused on high‑performance services, containerization, and r
     </tr>
 </table>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svcops&layout=donut&hide=java,html,javascript,css"/>
 
 ## 🎈 Magic Number
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=svcops&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&&hide_rank=true" />
 
 ![Visited By](https://counter.nginx.co/get/at/svcops?theme=booru-lewd)
 

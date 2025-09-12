@@ -4,7 +4,7 @@ Backend engineer focused on high‑performance services, containerization, and r
 
 ## 💬 Worked technologies for me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svcops&layout=donut&hide=java,html,javascript,css"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svcops&layout=donut&hide_title=true&hide=java,html,javascript,css"/>
 
 <table width="100%">
     <tr>

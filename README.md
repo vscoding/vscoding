@@ -9,6 +9,10 @@ Backend engineer focused on high‑performance services, containerization, and r
 <table width="100%">
     <tr>
         <td>
+            <img alt="C++"
+                 src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square"/>
+            <img alt="Rust" 
+                 src="https://img.shields.io/badge/Rust-CE412B?logo=rust&logoColor=white&style=flat-square"/>
             <img alt="Java (OpenJDK)"
                  src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square"/>
             <img alt="Kotlin"
@@ -17,7 +21,6 @@ Backend engineer focused on high‑performance services, containerization, and r
             <img alt="Shell"
                  src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square"/>
             <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square"/>
-            <img alt="Rust" src="https://img.shields.io/badge/Rust-2B2B2B?logo=Rust&logoColor=white&style=flat-square"/>
         </td>
     </tr>
     <tr>

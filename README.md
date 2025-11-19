@@ -50,7 +50,7 @@ Backend engineer focused on high‑performance services, containerization, and r
 ## 🎈 Magic Number
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=svcops&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&&hide_rank=true" />
 
-![Visited By](https://counter.nginx.co/get/at/svcops?theme=booru-lewd)
+![Visited By](https://counter.nginx.co/get/at/vscoding?theme=booru-lewd)
 
 ## 👀 Some cool stuff to look into 
 

@@ -17,6 +17,7 @@ Backend engineer focused on high‑performance services, containerization, and r
             <img alt="Shell"
                  src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square"/>
             <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square"/>
+            <img alt="Rust" src="https://img.shields.io/badge/Rust-2B2B2B?logo=Rust&logoColor=white&style=flat-square"/>
         </td>
     </tr>
     <tr>

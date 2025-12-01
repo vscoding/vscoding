@@ -4,8 +4,6 @@ Backend engineer focused on high‑performance services, containerization, and r
 
 ## 💬 Worked technologies for me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vscoding&layout=donut&hide_title=true&hide=java,html,javascript,css"/>
-
 <table width="100%" style="border-collapse:collapse; line-height:2.2;">
     <tr>
         <td style="padding:6px 0;">
@@ -42,12 +40,6 @@ Backend engineer focused on high‑performance services, containerization, and r
         </td>
     </tr>
 </table>
-
-
-## 🎈 Magic Number
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vscoding&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&&hide_rank=true" />
-
-![Visited By](https://counter.nginx.co/get/at/vscoding?theme=booru-lewd)
 
 ## 👀 Some cool stuff to look into 
 

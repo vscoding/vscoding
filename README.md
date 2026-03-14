@@ -41,6 +41,10 @@ Backend engineer focused on high‑performance services, containerization, and r
     </tr>
 </table>
 
+## 🎈 Magic Number
+
+![Visited By](https://counter.iproute.org/at/vscoding?theme=booru-lewd)
+
 ## 👀 Some cool stuff to look into 
 
 Pinned projects below highlight what I usually work on:  

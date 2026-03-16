@@ -43,7 +43,7 @@ Backend engineer focused on high‑performance services, containerization, and r
 
 ## 🎈 Magic Number
 
-![Visited By](https://counter.iproute.org/at/vscoding?theme=booru-lewd)
+![Visited By](https://counter.iproute.org/at/vscoding?theme=3d-num)
 
 ## 👀 Some cool stuff to look into 
 

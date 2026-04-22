@@ -24,6 +24,7 @@ Backend engineer focused on high‑performance services, containerization, and r
             <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
             <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
             <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=flat-square" />
+            <img alt="OpenResty" src="https://img.shields.io/badge/OpenResty-1A1A1A?logo=openresty&logoColor=white&style=flat-square" />
         </td>
     </tr>
     <tr>

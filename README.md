@@ -13,6 +13,7 @@ Backend engineer focused on high‑performance services, containerization, and r
             <img alt="Java (OpenJDK)" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
             <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" />
             <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+            <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
             <img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square" />
             <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square" />
         </td>

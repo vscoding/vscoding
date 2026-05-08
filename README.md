@@ -33,11 +33,6 @@ Backend engineer focused on high‑performance services, containerization, and r
             <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
             <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
             <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
-        </td>
-    </tr>
-    <tr>
-        <td style="padding:6px 0;">
-            <!-- Tools -->
             <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
         </td>
     </tr>

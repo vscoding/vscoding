@@ -45,7 +45,7 @@ Backend engineer focused on high‑performance services, containerization, and r
 
 ## 🎈 Magic Number
 
-![Visited By](https://counter.iproute.org/at/vscoding?theme=rule34)
+![Visited By](https://counter.intellij.io/at/vscoding?theme=rule34)
 
 ## 👀 Some cool stuff to look into 
 
